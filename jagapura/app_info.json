@@ -4,6 +4,7 @@
 	"packageName":"com.developer.apk",
         "versionCode": 1,
         "versionName": "1.0",
+	"forceUpdate": "false",
 	"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
 	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
 	"admob_interstitial": "interstitial_id"
@@ -13,6 +14,7 @@
 	"packageName":"com.developer.apk",
         "versionCode": 1,
         "versionName": "1.0",
+	"forceUpdate": "true",
 	"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
 	"admob_banner": "banner_id",
 	"admob_interstitial": "interstitial_id"
