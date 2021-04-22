@@ -1,20 +1,20 @@
 [
     {
         "id": 1,
-		"packageName":"com.developer.apk",
+	"packageName":"com.developer.apk",
         "versionCode": 1,
         "versionName": "1.0",
-		"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
-		"admob_banner": "banner_id",
-		"admob_interstitial": "interstitial_id"
+	"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
+	"admob_banner": "banner_id",
+	"admob_interstitial": "interstitial_id"
     },
     {
         "id": 2,
-		"packageName":"com.developer.apk",
+	"packageName":"com.developer.apk",
         "versionCode": 1,
         "versionName": "1.0",
-		"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
-		"admob_banner": "banner_id",
-		"admob_interstitial": "interstitial_id"
-    },
+	"updateURL": '"http://play.google.com/store/apps/details?id=" + appName',
+	"admob_banner": "banner_id",
+	"admob_interstitial": "interstitial_id"
+    }
 ]
