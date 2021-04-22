@@ -1,24 +1,24 @@
 [
     {
-        "id": 1,
-		"packageName":"com.jagapuradev.appmaster",
-        "versionCode": 1,
-        "versionName": "1.0",
-		"forceUpdate": "false",
-		"updateURL1": "market://details?id=com.jagapuradev.appmaster",
-		"updateURL2": "http://play.google.com/store/apps/details?id=com.jagapuradev.appmaster",
-		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
-		"admob_interstitial": "interstitial_id"
+	"id": 1,
+	"packageName": "com.jagapuradev.appmaster",
+	"versionCode": 1,
+	"versionName": "1.0",
+	"forceUpdate": "false",
+	"updateURL1": "market://details?id=com.jagapuradev.appmaster",
+	"updateURL2": "http://play.google.com/store/apps/details?id=com.jagapuradev.appmaster",
+	"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+	"admob_interstitial": "interstitial_id"
     },
     {
-        "id": 2,
-		"packageName":"com.developer.apk",
-        "versionCode": 1,
-        "versionName": "1.0",
-		"forceUpdate": "true",
-		"updateURL1": "market://details?id=",
-		"updateURL2": "http://play.google.com/store/apps/details?id=",
-		"admob_banner": "banner_id",
-		"admob_interstitial": "interstitial_id"
+	"id": 2,
+	"packageName": "com.developer.apk",
+	"versionCode": 1,
+	"versionName": "1.0",
+	"forceUpdate": "true",
+	"updateURL1": "market://details?id=",
+	"updateURL2": "http://play.google.com/store/apps/details?id=",
+	"admob_banner": "banner_id",
+	"admob_interstitial": "interstitial_id"
     }
 ]
